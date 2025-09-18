@@ -115,7 +115,7 @@ What is the sentiment of reviews for franchise Sweetie Pies ?
 
 - Et sa requête
   On est en train d'utiliser les ai_functions de Databricks, qui sont des fonctions basés sur des modèles d'IA requêtables en SQL.
-  [https://learn.microsoft.com/en-gb/azure/databricks/large-language-models/ai-functions]
+  [Voir Ici](https://learn.microsoft.com/en-gb/azure/databricks/large-language-models/ai-functions)
 
 ```sql
 SELECT
