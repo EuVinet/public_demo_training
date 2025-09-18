@@ -107,13 +107,15 @@
 
 ## 10. Ajouter une instruction et un exemple pour l'analyse de sentiment
 
-- Ajoutez dans **Instructions : Text** la question suivante en anglais :
+- Ajoutez dans **Instructions : SQL Queries** la question suivante en anglais :
 
 ```
 What is the sentiment of reviews for franchise Sweetie Pies ?
 ```
 
-- Ajoutez également dans **Instructions : SQL Queries** ce code d’exemple à copier :
+- Et sa requête
+  On est en train d'utiliser les ai_functions de Databricks, qui sont des fonctions basés sur des modèles d'IA requêtables en SQL.
+  [https://learn.microsoft.com/en-gb/azure/databricks/large-language-models/ai-functions]
 
 ```sql
 SELECT
