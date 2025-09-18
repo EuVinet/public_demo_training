@@ -8,16 +8,16 @@
 3. Inscrivez-vous avec votre adresse e-mail (professionnelle ou académique de préférence).
 4. Choisissez **AWS** (recommandé) ou **Azure** comme cloud.
 5. Activez votre compte via le lien de validation reçu dans votre messagerie.
-6. Connectez-vous à votre espace de travail Databricks.
+6. Connectez-vous à votre workspace Databricks.
 
 ***
 
 ## 2. Accéder au dataset « bakehouse »
 
-### Option 1 : accès direct via les échantillons
+### Option 1 : accès direct via les "samples" disponibles
 
 - Dans le menu de gauche, cliquez sur **Catalog**.
-- Dans la section **Delta Shares reçus**, sélectionnez **samples**.
+- Dans la section **Delta Shares**, sélectionnez **samples**.
 - Vérifiez que le dataset **bakehouse** (ou **bakehouse_demo**) est disponible.
 - S’il y est, passez directement à l’étape suivante.
 
