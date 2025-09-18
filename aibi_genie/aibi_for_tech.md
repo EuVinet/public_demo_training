@@ -1,11 +1,11 @@
 
 # Atelier Genie AI BI – Databricks
 
-## 1. Création d’un espace Databricks gratuit
+## 1. Création d’un Workspace Databricks gratuit
 
 1. Rendez-vous sur [https://www.databricks.com/learn/free-edition].
 2. Cliquez sur **S’inscrire**.
-3. Inscrivez-vous avec votre adresse e-mail (professionnelle ou académique de préférence).
+3. Inscrivez-vous avec votre adresse e-mail.
 4. Choisissez **AWS** (recommandé) ou **Azure** comme cloud.
 5. Activez votre compte via le lien de validation reçu dans votre messagerie.
 6. Connectez-vous à votre workspace Databricks.
