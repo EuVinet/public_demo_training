@@ -3,7 +3,7 @@
 
 ## 1. Création d’un Workspace Databricks gratuit
 
-1. Rendez-vous sur (https://www.databricks.com/learn/free-edition)[https://www.databricks.com/learn/free-edition].
+1. Rendez-vous sur https://www.databricks.com/learn/free-edition.
 2. Cliquez sur **S’inscrire**.
 3. Inscrivez-vous avec votre adresse e-mail.
 4. Choisissez **AWS** (recommandé) ou **Azure** comme cloud.
