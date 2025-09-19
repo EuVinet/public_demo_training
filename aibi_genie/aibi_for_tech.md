@@ -111,7 +111,7 @@ Voir explications et exemple en séance.
 
 ***
 
-## 10. Ajouter une instruction et un exemple pour l'analyse de sentiment
+## 11. Ajouter une instruction et un exemple pour l'analyse de sentiment
 
 - Ajoutez dans **Instructions : SQL Queries** la question suivante en anglais :
 
