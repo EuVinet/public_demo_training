@@ -105,6 +105,12 @@
 
 ***
 
+## 10. Decouverte des fonctionnalités de Monitoring et de Benchmark 
+
+Voir explications et exemple en séance.
+
+***
+
 ## 10. Ajouter une instruction et un exemple pour l'analyse de sentiment
 
 - Ajoutez dans **Instructions : SQL Queries** la question suivante en anglais :
@@ -113,7 +119,7 @@
 What is the sentiment of reviews for franchise Sweetie Pies ?
 ```
 
-- Et sa requête
+- Et sa requête, qui va permettre à Genie d'utiliser ai_analyze_sentiment.
   On est en train d'utiliser les ai_functions de Databricks, qui sont des fonctions basés sur des modèles d'IA requêtables en SQL.
   [Voir Ici](https://learn.microsoft.com/en-gb/azure/databricks/large-language-models/ai-functions)
 
