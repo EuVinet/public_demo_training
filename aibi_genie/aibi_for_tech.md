@@ -58,7 +58,7 @@
 
 ## 5. Comprendre la donnée à disposition
 
-- Dans votre nouvel espace Genie, cliquez sur **Explain the dataset**.
+- Dans votre nouvel espace Genie, tapez **Explain the dataset in details, per table**.
 
 ***
 
